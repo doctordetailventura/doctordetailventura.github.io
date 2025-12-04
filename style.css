@@ -24,7 +24,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background: #6649b8;
+  background: #7359bb;
 }
 
 main {
@@ -186,17 +186,17 @@ main {
 }
 
 .light {
-  --text-primary: #1f1f1f;
+  --text-primary: #000000;
   --text-secondary: #000000;
   --bg-primary: #00ce11;
   --bg-secondary: #df0000;
 }
 
 .solar {
-  --text-primary: #576e75;
-  --text-secondary: #35535c;
-  --bg-primary: #34d414;
-  --bg-secondary: #ee5f00;
+  --text-primary: #ffffff;
+  --text-secondary: #ffffff;
+  --bg-primary: #0e9737;
+  --bg-secondary: #c50c59;
 }
 
 .theme-icon {
